@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{540E98A0-E2FE-A5D9-5B91-60EEF727AD26}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TowerBilder.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TowerBilder.cs" Line="21" Column="69" />
+      <File FileName="Assets/Scripts/Tower.cs" Line="29" Column="149" />
+      <File FileName="Assets/Scripts/Block.cs" Line="24" Column="46" />
+      <File FileName="Assets/Scripts/Tank.cs" Line="24" Column="125" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="29" Column="68" />
+      <File FileName="Assets/Scripts/OdstacleRotate.cs" Line="12" Column="126" />
+      <File FileName="Assets/Scripts/Obstacle.cs" Line="6" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Learn" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fdc420b4-a969-41e5-81c7-4ed2e163e31c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
